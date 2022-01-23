@@ -1,8 +1,8 @@
 # ig.news
 
 <div>
-  <img width=500 src="images/ig_news_image_1.png" />
-  <img width=500 src="images/ig_news_image_2.png" />
+  <img width=300 src="images/ig_news_image_1.png" />
+  <img width=300 src="images/ig_news_image_2.png" />
 </div>
 
 A news blog related to technology.
