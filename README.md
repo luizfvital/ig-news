@@ -7,7 +7,7 @@
 
 A news blog related to technology.
 
-It uses Next Auth for authentication (GitHub OAuth), Prismic CMS for content management, Stripe for payments and subscriptions, and Fauna as a cloud database.
+It is made with NextJS and uses Next Auth for authentication (GitHub OAuth), Prismic CMS for content management, Stripe for payments and subscriptions, and Fauna as a cloud database.
 
 Technologies used:
 
